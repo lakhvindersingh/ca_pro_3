@@ -1,0 +1,1319 @@
+2016-07-05 10:01:43 Debug: Array
+(
+    [tx] => 5U97891376188330E
+    [st] => Completed
+    [amt] => 39.90
+    [cc] => USD
+    [cm] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+)
+
+2016-07-05 10:01:43 Debug: requestdata
+2016-07-05 10:03:58 Debug: Array
+(
+    [tx] => 5U97891376188330E
+    [st] => Completed
+    [amt] => 39.90
+    [cc] => USD
+    [cm] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+)
+
+2016-07-05 10:03:58 Debug: requestdata
+2016-07-05 10:04:01 Debug: Array
+(
+    [tx] => 5U97891376188330E
+    [st] => Completed
+    [amt] => 39.90
+    [cc] => USD
+    [cm] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+)
+
+2016-07-05 10:04:01 Debug: requestdata
+2016-07-05 10:05:02 Debug: requestdata
+2016-07-05 10:05:02 Debug: payment log
+2016-07-05 10:05:02 Debug: Array
+(
+    [txn_id] => 5U97891376188330E
+    [payment_status] => Completed
+    [payment_gross] => 39.90
+    [mc_currency] => USD
+    [custom] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+    [GET] => Array
+        (
+            [tx] => 5U97891376188330E
+            [st] => Completed
+            [amt] => 39.90
+            [cc] => USD
+            [cm] => NTZ0bHRhbW9udHk=
+            [item_number] => 3
+            [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+        )
+
+)
+
+2016-07-05 10:05:26 Debug: requestdata
+2016-07-05 10:05:26 Debug: payment log
+2016-07-05 10:05:26 Debug: Array
+(
+    [txn_id] => 5U97891376188330E
+    [payment_status] => Completed
+    [payment_gross] => 39.90
+    [mc_currency] => USD
+    [custom] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+    [GET] => Array
+        (
+            [tx] => 5U97891376188330E
+            [st] => Completed
+            [amt] => 39.90
+            [cc] => USD
+            [cm] => NTZ0bHRhbW9udHk=
+            [item_number] => 3
+            [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+        )
+
+)
+
+2016-07-05 10:08:19 Debug: requestdata
+2016-07-05 10:08:19 Debug: payment log
+2016-07-05 10:08:19 Debug: Array
+(
+    [txn_id] => 3DN76577YT707015D
+    [payment_status] => Completed
+    [payment_gross] => 3.99
+    [mc_currency] => USD
+    [custom] => NTB0bHRhbW9udHk=
+    [item_number] => 2
+    [sig] => gDEo97UFic836h+WZgZsYV3WoFUroYF3uFurW6aE0QxL8fqAI/ZVYZvP3qC4/eht3VTwt6hBlqfSrBmgOlHIs9DuTW0arAxJGtfUasn5RcV2iURX97X/kfoWaGoyVHDgGOZMJaSjBh9HNuYZGyL7vfamL1j+4taK4V4BmHTzVro=
+    [GET] => Array
+        (
+            [tx] => 3DN76577YT707015D
+            [st] => Completed
+            [amt] => 3.99
+            [cc] => USD
+            [cm] => NTB0bHRhbW9udHk=
+            [item_number] => 2
+            [sig] => gDEo97UFic836h+WZgZsYV3WoFUroYF3uFurW6aE0QxL8fqAI/ZVYZvP3qC4/eht3VTwt6hBlqfSrBmgOlHIs9DuTW0arAxJGtfUasn5RcV2iURX97X/kfoWaGoyVHDgGOZMJaSjBh9HNuYZGyL7vfamL1j+4taK4V4BmHTzVro=
+        )
+
+)
+
+2016-07-05 10:18:21 Debug: requestdata
+2016-07-05 10:18:21 Debug: payment log
+2016-07-05 10:18:21 Debug: Array
+(
+    [txn_id] => 5U97891376188330E
+    [payment_status] => Completed
+    [payment_gross] => 39.90
+    [mc_currency] => USD
+    [custom] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+    [GET] => Array
+        (
+            [tx] => 5U97891376188330E
+            [st] => Completed
+            [amt] => 39.90
+            [cc] => USD
+            [cm] => NTZ0bHRhbW9udHk=
+            [item_number] => 3
+            [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+        )
+
+)
+
+2016-07-05 10:18:27 Debug: requestdata
+2016-07-05 10:18:27 Debug: payment log
+2016-07-05 10:18:27 Debug: Array
+(
+    [txn_id] => 5U97891376188330E
+    [payment_status] => Completed
+    [payment_gross] => 39.90
+    [mc_currency] => USD
+    [custom] => NTZ0bHRhbW9udHk=
+    [item_number] => 3
+    [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+    [GET] => Array
+        (
+            [tx] => 5U97891376188330E
+            [st] => Completed
+            [amt] => 39.90
+            [cc] => USD
+            [cm] => NTZ0bHRhbW9udHk=
+            [item_number] => 3
+            [sig] => dqKgRjP9uJK6gX0rXzLUAXcETVXxUFktGxWfRdvXds3FXUTLj/2hOlo05pZ0C+6A8TnP/0T642DiTVpdZbQY/dLeiZH0nIWTGBKUIMC+2OobO74cPn75I+j9onV/hx9VTgN3/XehD8w7atrkyYxvyQ/JvsHtSpQKG7o3HabotQs=
+        )
+
+)
+
+2016-07-05 16:20:31 Debug: Array
+(
+    [user_id] => 56
+    [sessionId] => 2uzJR9dFp65ZacI0tjaPrUlRt
+    [record] => [{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","students":"","lessId":"17","name":"Placing a Pitcher","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","students":"","lessId":"263","name":"Carrying a Tray","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","students":"","lessId":"265","name":"Sitting in a Chair","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"2","chapterId":"29","color":"#f4cccc","exerciseId":"0","students":"","lessId":"244","name":"Fabrics","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"2","chapterId":"29","color":"#f4cccc","exerciseId":"0","students":"","lessId":"118","name":"Touch Tablets","status_id":"1","student_id":"203","isChecked":false},{"areaId":"1","chapterId":"23","color":"#c9daf8","exerciseId":"0","students":"","lessId":"248","name":"Word Families","status_id":"1","student_id":"202","isChecked":false},{"areaId":"1","chapterId":"23","color":"#c9daf8","exerciseId":"0","students":"","lessId":"133","name":"Adjectives","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"4","chapterId":"15","color":"#d9d2e9","exerciseId":"0","students":"","lessId":"51","name":"Teen Beads \u0026 Boards","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"4","chapterId":"15","color":"#d9d2e9","exerciseId":"0","students":"","lessId":"106","name":"100 Chain","status_id":"1","student_id":"202,203","isChecked":false},{"areaId":"4","chapterId":"15","color":"#d9d2e9","exerciseId":"0","students":"","lessId":"78","name":"Teen Beads","status_id":"1","student_id":"202","isChecked":false},{"areaId":"1","chapterId":"20","color":"#c9daf8","exerciseId":"0","students":"","lessId":"147","name":"Phonetic Booklets","status_id":"1","student_id":"203","isChecked":false},{"areaId":"1","chapterId":"20","color":"#c9daf8","exerciseId":"0","students":"","lessId":"246","name":"Phonogram Object Box","status_id":"1","student_id":"202","isChecked":false}]
+    [start_date] => 07-05-2016
+    [end_date] => 07-07-2016
+    [view] => 2
+    [sendmail] => false
+    [planId] => 0
+)
+
+2016-07-07 04:41:43 Debug: requestdata
+2016-07-07 04:41:43 Debug: payment log
+2016-07-07 04:41:43 Debug: Array
+(
+    [txn_id] => 57T588311V2182928
+    [payment_status] => Completed
+    [payment_gross] => 3.99
+    [mc_currency] => USD
+    [custom] => NjR0bHRhbW9udHk=
+    [item_number] => 2
+    [sig] => ENrIHethVh/xNuZZA6Jz83sTy8qa2tzjQ6txzecC6jI1SsIUbDM8eR7s20lOhZcf/ootws9iXUUKozPIxgEfN8R7H9N8CZJdG6xU8TWcVpzZz/eAweNl4xky9Hkx2y2WPdqrDyTRZpNMh3PMi0STpcgdG58gXQB0M0k+9zHb/gg=
+    [GET] => Array
+        (
+            [tx] => 57T588311V2182928
+            [st] => Completed
+            [amt] => 3.99
+            [cc] => USD
+            [cm] => NjR0bHRhbW9udHk=
+            [item_number] => 2
+            [sig] => ENrIHethVh/xNuZZA6Jz83sTy8qa2tzjQ6txzecC6jI1SsIUbDM8eR7s20lOhZcf/ootws9iXUUKozPIxgEfN8R7H9N8CZJdG6xU8TWcVpzZz/eAweNl4xky9Hkx2y2WPdqrDyTRZpNMh3PMi0STpcgdG58gXQB0M0k+9zHb/gg=
+        )
+
+)
+
+2016-07-07 04:44:26 Debug: Array
+(
+    [user_id] => 64
+    [sessionId] => JTbbOxPiHbCS5wio5GWTSI79T
+    [record] => [{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","isChecked":false,"lessId":"52","name":"Carrying a Working Mat","status_id":"1","student_id":"205"},{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","isChecked":false,"lessId":"17","name":"Placing a Pitcher","status_id":"1","student_id":"205"},{"areaId":"3","chapterId":"7","color":"#fff2cc","exerciseId":"0","isChecked":false,"lessId":"39","name":"Setting Down a Chair","status_id":"1","student_id":"205"},{"areaId":"2","chapterId":"27","color":"#f4cccc","exerciseId":"0","isChecked":false,"lessId":"164","name":"Thermic Tablets","status_id":"1","student_id":"205"},{"areaId":"2","chapterId":"27","color":"#f4cccc","exerciseId":"0","isChecked":false,"lessId":"215","name":"Thermic Bottles","status_id":"1","student_id":"205"},{"areaId":"1","chapterId":"32","color":"#c9daf8","exerciseId":"0","isChecked":false,"lessId":"94","name":"Metal Insets","status_id":"1","student_id":"205"},{"areaId":"1","chapterId":"32","color":"#c9daf8","exerciseId":"0","isChecked":false,"lessId":"205","name":"Additional SPL","status_id":"1","student_id":"205"},{"areaId":"3","chapterId":"17","color":"#fff2cc","exerciseId":"0","isChecked":false,"lessId":"91","name":"Accepting a Compliment","status_id":"1","student_id":"205"},{"areaId":"2","chapterId":"22","color":"#f4cccc","exerciseId":"0","isChecked":false,"lessId":"108","name":"Cylinder Blocks","status_id":"1","student_id":"205"},{"areaId":"1","chapterId":"1","color":"#c9daf8","exerciseId":"0","isChecked":false,"lessId":"186","name":"Enrichment of Vocabulary","status_id":"1","student_id":"205"},{"areaId":"2","chapterId":"22","color":"#f4cccc","exerciseId":"0","isChecked":false,"lessId":"255","name":"Red Rods","status_id":"1","student_id":"205"},{"areaId":"2","chapterId":"22","color":"#f4cccc","exerciseId":"0","isChecked":false,"lessId":"196","name":"Color Tablets Box 1","status_id":"1","student_id":"205"}]
+    [start_date] => 07-07-2016
+    [end_date] => 07-30-2016
+    [view] => 1
+    [sendmail] => false
+    [planId] => 0
+)
+
+2016-07-07 04:44:39 Debug: Array
+(
+    [0] => email sent to qwer@mailinator.com
+)
+
+2016-07-14 11:31:49 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "607",
+    "exerciseId" : "0",
+    "chapterId" : "48",
+    "areaId" : 5,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "604",
+    "exerciseId" : "0",
+    "chapterId" : "117",
+    "areaId" : 10,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "511",
+    "exerciseId" : "0",
+    "chapterId" : "117",
+    "areaId" : 10,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "762",
+    "exerciseId" : "0",
+    "chapterId" : "84",
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "765",
+    "exerciseId" : "0",
+    "chapterId" : "84",
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "984",
+    "chapterId" : "84",
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "985",
+    "chapterId" : "84",
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "898",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "920",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "676",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "622",
+    "exerciseId" : "0",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 74
+  }
+]
+    [start_date] => 07-14-2016 
+    [sessionId] => 0x9BUC3hkpKI3r765QVeRrmA8
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 26
+    [end_date] =>  07-30-2016
+)
+
+2016-07-14 11:33:18 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "607",
+    "exerciseId" : "0",
+    "chapterId" : 48,
+    "areaId" : 5,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "604",
+    "exerciseId" : "0",
+    "chapterId" : 117,
+    "areaId" : 10,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "511",
+    "exerciseId" : "0",
+    "chapterId" : 117,
+    "areaId" : 10,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "762",
+    "exerciseId" : "0",
+    "chapterId" : 84,
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "765",
+    "exerciseId" : "0",
+    "chapterId" : 84,
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "984",
+    "chapterId" : 84,
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "985",
+    "chapterId" : 84,
+    "areaId" : 8,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "898",
+    "chapterId" : 36,
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "920",
+    "chapterId" : 36,
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "676",
+    "chapterId" : 36,
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "622",
+    "exerciseId" : "0",
+    "chapterId" : 36,
+    "areaId" : 7,
+    "student_id" : 74
+  },
+  {
+    "lessId" : "285",
+    "exerciseId" : "0",
+    "chapterId" : "101",
+    "areaId" : 5,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "393",
+    "exerciseId" : "0",
+    "chapterId" : "35",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "450",
+    "exerciseId" : "0",
+    "chapterId" : "35",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "751",
+    "exerciseId" : "0",
+    "chapterId" : "85",
+    "areaId" : 8,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "752",
+    "exerciseId" : "0",
+    "chapterId" : "85",
+    "areaId" : 8,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "753",
+    "exerciseId" : "0",
+    "chapterId" : "85",
+    "areaId" : 8,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "976",
+    "chapterId" : "85",
+    "areaId" : 8,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "625",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "638",
+    "chapterId" : "36",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "366",
+    "exerciseId" : "0",
+    "chapterId" : "65",
+    "areaId" : 5,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "403",
+    "exerciseId" : "0",
+    "chapterId" : "109",
+    "areaId" : 5,
+    "student_id" : 71
+  },
+  {
+    "lessId" : "708",
+    "exerciseId" : "0",
+    "chapterId" : "96",
+    "areaId" : 8,
+    "student_id" : 71
+  },
+  {
+    "lessId" : "706",
+    "exerciseId" : "0",
+    "chapterId" : "96",
+    "areaId" : 8,
+    "student_id" : 71
+  },
+  {
+    "lessId" : "534",
+    "exerciseId" : "0",
+    "chapterId" : "98",
+    "areaId" : 7,
+    "student_id" : 71
+  },
+  {
+    "lessId" : "278",
+    "exerciseId" : "0",
+    "chapterId" : "98",
+    "areaId" : 7,
+    "student_id" : 71
+  }
+]
+    [planId] => 116
+    [start_date] => 07-14-2016 
+    [sessionId] => 0x9BUC3hkpKI3r765QVeRrmA8
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 26
+    [end_date] =>  07-30-2016
+)
+
+2016-07-14 11:58:22 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "607",
+    "exerciseId" : "0",
+    "chapterId" : "48",
+    "areaId" : 5,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "554",
+    "exerciseId" : "0",
+    "chapterId" : "104",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "492",
+    "exerciseId" : "0",
+    "chapterId" : "50",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "391",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "349",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "523",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "358",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  }
+]
+    [planId] => 116
+    [start_date] => 07-14-2016 
+    [sessionId] => FvEcATK2H7PCtGmzPjmIArVU9
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 26
+    [end_date] =>  07-14-2016
+)
+
+2016-07-14 11:58:31 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "607",
+    "exerciseId" : "0",
+    "chapterId" : "48",
+    "areaId" : 5,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "554",
+    "exerciseId" : "0",
+    "chapterId" : "104",
+    "areaId" : 7,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "492",
+    "exerciseId" : "0",
+    "chapterId" : "50",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "391",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "349",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "523",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  },
+  {
+    "lessId" : "358",
+    "exerciseId" : "0",
+    "chapterId" : "112",
+    "areaId" : 10,
+    "student_id" : 128
+  }
+]
+    [planId] => 116
+    [start_date] => 07-14-2016 
+    [sessionId] => FvEcATK2H7PCtGmzPjmIArVU9
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 26
+    [end_date] =>  07-14-2016
+)
+
+2016-07-14 12:07:32 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "546",
+    "exerciseId" : "0",
+    "chapterId" : "108",
+    "areaId" : "5",
+    "student_id" : "71,87"
+  }
+]
+    [start_date] => 07-14-2016 
+    [sessionId] => FvEcATK2H7PCtGmzPjmIArVU9
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 26
+    [end_date] =>  07-14-2016
+)
+
+2016-07-25 17:25:38 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "97",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : "3",
+    "student_id" : "82,116,117,106,110,105"
+  },
+  {
+    "lessId" : "34",
+    "exerciseId" : "0",
+    "chapterId" : "26",
+    "areaId" : "2",
+    "student_id" : "82,116,117,106,110,105,120"
+  },
+  {
+    "lessId" : "122",
+    "exerciseId" : "0",
+    "chapterId" : "23",
+    "areaId" : "1",
+    "student_id" : "83,100,117"
+  },
+  {
+    "lessId" : "57",
+    "exerciseId" : "0",
+    "chapterId" : "5",
+    "areaId" : "4",
+    "student_id" : "115,117,106,104"
+  }
+]
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-27-2016
+)
+
+2016-07-25 17:30:54 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "17",
+    "exerciseId" : "0",
+    "chapterId" : "7",
+    "areaId" : 3,
+    "student_id" : 100
+  }
+]
+    [start_date] => 07-28-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-29-2016
+)
+
+2016-07-25 17:31:40 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "97",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : "3",
+    "student_id" : "100,116,115"
+  }
+]
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-31-2016
+)
+
+2016-07-25 17:33:01 Debug: Array
+(
+    [0] => email sent to reinhal@gmail.com
+)
+
+2016-07-25 21:21:58 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "117",
+    "exerciseId" : "0",
+    "chapterId" : 25,
+    "areaId" : 3,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "150",
+    "exerciseId" : "0",
+    "chapterId" : 25,
+    "areaId" : 3,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "472",
+    "exerciseId" : "0",
+    "chapterId" : 20,
+    "areaId" : 1,
+    "student_id" : 82
+  }
+]
+    [planId] => 111
+    [start_date] => 07-03-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-03-2016
+)
+
+2016-07-25 22:12:19 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "80",
+    "exerciseId" : "0",
+    "chapterId" : "21",
+    "areaId" : 3,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "63",
+    "exerciseId" : "0",
+    "chapterId" : "18",
+    "areaId" : 2,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "216",
+    "exerciseId" : "0",
+    "chapterId" : "14",
+    "areaId" : 1,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "609",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : 3,
+    "student_id" : 100
+  },
+  {
+    "lessId" : "94",
+    "exerciseId" : "0",
+    "chapterId" : "32",
+    "areaId" : 1,
+    "student_id" : 100
+  }
+]
+    [planId] => 111
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-27-2016
+)
+
+2016-07-25 22:12:29 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "80",
+    "exerciseId" : "0",
+    "chapterId" : "21",
+    "areaId" : 3,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "63",
+    "exerciseId" : "0",
+    "chapterId" : "18",
+    "areaId" : 2,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "216",
+    "exerciseId" : "0",
+    "chapterId" : "14",
+    "areaId" : 1,
+    "student_id" : 82
+  },
+  {
+    "lessId" : "609",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : 3,
+    "student_id" : 100
+  },
+  {
+    "lessId" : "94",
+    "exerciseId" : "0",
+    "chapterId" : "32",
+    "areaId" : 1,
+    "student_id" : 100
+  }
+]
+    [planId] => 111
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-27-2016
+)
+
+2016-07-25 22:13:33 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "41",
+    "exerciseId" : "0",
+    "chapterId" : "25",
+    "areaId" : "3",
+    "student_id" : "82,116,104"
+  },
+  {
+    "lessId" : "117",
+    "exerciseId" : "0",
+    "chapterId" : "25",
+    "areaId" : "3",
+    "student_id" : "100,117,104"
+  }
+]
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-29-2016
+)
+
+2016-07-25 22:14:23 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "603",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : 3,
+    "student_id" : 100
+  },
+  {
+    "lessId" : "241",
+    "exerciseId" : "0",
+    "chapterId" : "6",
+    "areaId" : 2,
+    "student_id" : 100
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "483",
+    "chapterId" : "6",
+    "areaId" : 2,
+    "student_id" : 100
+  },
+  {
+    "lessId" : "497",
+    "exerciseId" : "0",
+    "chapterId" : "23",
+    "areaId" : 1,
+    "student_id" : 100
+  }
+]
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-31-2016
+)
+
+2016-07-25 22:14:53 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "97",
+    "exerciseId" : "0",
+    "chapterId" : "9",
+    "areaId" : "3",
+    "student_id" : "82,116,117,106,110,105"
+  },
+  {
+    "lessId" : "34",
+    "exerciseId" : "0",
+    "chapterId" : "26",
+    "areaId" : "2",
+    "student_id" : "82,116,117,106,110,105,120"
+  },
+  {
+    "lessId" : "122",
+    "exerciseId" : "0",
+    "chapterId" : "23",
+    "areaId" : "1",
+    "student_id" : "83,100,117"
+  },
+  {
+    "lessId" : "57",
+    "exerciseId" : "0",
+    "chapterId" : "5",
+    "areaId" : "4",
+    "student_id" : "115,117,106,104"
+  },
+  {
+    "lessId" : "27",
+    "exerciseId" : "0",
+    "chapterId" : "17",
+    "areaId" : "3",
+    "student_id" : "83"
+  },
+  {
+    "lessId" : "20",
+    "exerciseId" : "0",
+    "chapterId" : "17",
+    "areaId" : "3",
+    "student_id" : "106"
+  }
+]
+    [planId] => 118
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-27-2016
+)
+
+2016-07-25 22:49:32 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "100",
+    "exerciseId" : "0",
+    "chapterId" : "28",
+    "areaId" : 3,
+    "student_id" : 117
+  },
+  {
+    "lessId" : "241",
+    "exerciseId" : "0",
+    "chapterId" : "6",
+    "areaId" : 2,
+    "student_id" : 117
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "483",
+    "chapterId" : "6",
+    "areaId" : 2,
+    "student_id" : 117
+  },
+  {
+    "lessId" : "(null)",
+    "exerciseId" : "377",
+    "chapterId" : "1",
+    "areaId" : 1,
+    "student_id" : 117
+  },
+  {
+    "lessId" : "567",
+    "exerciseId" : "0",
+    "chapterId" : "21",
+    "areaId" : 3,
+    "student_id" : 100
+  }
+]
+    [planId] => 118
+    [start_date] => 08-02-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 1
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  08-09-2016
+)
+
+2016-07-25 22:50:04 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "41",
+    "exerciseId" : "0",
+    "chapterId" : "25",
+    "areaId" : "3",
+    "student_id" : "82,116,104"
+  },
+  {
+    "lessId" : "117",
+    "exerciseId" : "0",
+    "chapterId" : "25",
+    "areaId" : "3",
+    "student_id" : "83,100,117,104"
+  },
+  {
+    "lessId" : "3",
+    "exerciseId" : "0",
+    "chapterId" : "17",
+    "areaId" : "3",
+    "student_id" : ""
+  },
+  {
+    "lessId" : "71",
+    "exerciseId" : "0",
+    "chapterId" : "17",
+    "areaId" : "3",
+    "student_id" : "82,83"
+  }
+]
+    [planId] => 121
+    [start_date] => 07-25-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  07-29-2016
+)
+
+2016-07-26 01:34:35 Debug: Array
+(
+    [record] => [
+  {
+    "lessId" : "22",
+    "exerciseId" : "0",
+    "chapterId" : "17",
+    "areaId" : "3",
+    "student_id" : "83"
+  },
+  {
+    "lessId" : "15",
+    "exerciseId" : "0",
+    "chapterId" : "22",
+    "areaId" : "2",
+    "student_id" : "82"
+  },
+  {
+    "lessId" : "6",
+    "exerciseId" : "0",
+    "chapterId" : "20",
+    "areaId" : "1",
+    "student_id" : "83,84"
+  },
+  {
+    "lessId" : "46",
+    "exerciseId" : "79",
+    "chapterId" : "32",
+    "areaId" : "1",
+    "student_id" : "101,119"
+  },
+  {
+    "lessId" : "164",
+    "exerciseId" : "0",
+    "chapterId" : "27",
+    "areaId" : "2",
+    "student_id" : "101,108,103"
+  },
+  {
+    "lessId" : "54",
+    "exerciseId" : "0",
+    "chapterId" : "22",
+    "areaId" : "2",
+    "student_id" : "83,120,107"
+  },
+  {
+    "lessId" : "186",
+    "exerciseId" : "0",
+    "chapterId" : "1",
+    "areaId" : "1",
+    "student_id" : "120,107"
+  },
+  {
+    "lessId" : "4",
+    "exerciseId" : "0",
+    "chapterId" : "15",
+    "areaId" : "4",
+    "student_id" : "84,110"
+  },
+  {
+    "lessId" : "78",
+    "exerciseId" : "0",
+    "chapterId" : "15",
+    "areaId" : "4",
+    "student_id" : "118,109"
+  }
+]
+    [start_date] => 08-28-2016 
+    [sessionId] => ge4rAQOIWR7ZmvTzomauvE4Zr
+    [view] => 2
+    [sendmail] => 0
+    [user_id] => 29
+    [end_date] =>  08-31-2016
+)
+
+2017-05-17 07:51:55 Notice: Notice (8): Trying to get property of non-object in [/var/www/html/Teacher/src/Controller/UsersController.php, line 70]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\UsersController::resetPassword() - APP/Controller/UsersController.php, line 70
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 07:52:44 Notice: Notice (8): Trying to get property of non-object in [/var/www/html/Teacher/src/Controller/UsersController.php, line 70]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\UsersController::resetPassword() - APP/Controller/UsersController.php, line 70
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2018-02-20 13:04:49 Debug: SHOW FULL COLUMNS FROM `add_limits`
+2018-02-20 13:04:49 Debug: SHOW INDEXES FROM `add_limits`
+2018-02-20 13:04:49 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'add_limits' AND rc.TABLE_NAME = 'add_limits'
+2018-02-20 13:04:49 Debug: SHOW TABLE STATUS WHERE Name = 'add_limits'
+2018-02-20 13:04:49 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:04:49 Debug: SHOW FULL COLUMNS FROM `users`
+2018-02-20 13:04:49 Debug: SHOW INDEXES FROM `users`
+2018-02-20 13:04:49 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'users' AND rc.TABLE_NAME = 'users'
+2018-02-20 13:04:49 Debug: SHOW TABLE STATUS WHERE Name = 'users'
+2018-02-20 13:04:49 Debug: SHOW FULL COLUMNS FROM `countries`
+2018-02-20 13:04:49 Debug: SHOW INDEXES FROM `countries`
+2018-02-20 13:04:49 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'countries' AND rc.TABLE_NAME = 'countries'
+2018-02-20 13:04:49 Debug: SHOW TABLE STATUS WHERE Name = 'countries'
+2018-02-20 13:04:52 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:07:39 Debug: SHOW FULL COLUMNS FROM `add_limits`
+2018-02-20 13:07:39 Debug: SHOW INDEXES FROM `add_limits`
+2018-02-20 13:07:39 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'add_limits' AND rc.TABLE_NAME = 'add_limits'
+2018-02-20 13:07:39 Debug: SHOW TABLE STATUS WHERE Name = 'add_limits'
+2018-02-20 13:07:39 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:07:39 Debug: SHOW FULL COLUMNS FROM `users`
+2018-02-20 13:07:39 Debug: SHOW INDEXES FROM `users`
+2018-02-20 13:07:39 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'users' AND rc.TABLE_NAME = 'users'
+2018-02-20 13:07:39 Debug: SHOW TABLE STATUS WHERE Name = 'users'
+2018-02-20 13:07:39 Debug: SHOW FULL COLUMNS FROM `countries`
+2018-02-20 13:07:39 Debug: SHOW INDEXES FROM `countries`
+2018-02-20 13:07:39 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'countries' AND rc.TABLE_NAME = 'countries'
+2018-02-20 13:07:39 Debug: SHOW TABLE STATUS WHERE Name = 'countries'
+2018-02-20 13:07:42 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:10:58 Debug: SHOW FULL COLUMNS FROM `add_limits`
+2018-02-20 13:10:58 Debug: SHOW INDEXES FROM `add_limits`
+2018-02-20 13:10:58 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'add_limits' AND rc.TABLE_NAME = 'add_limits'
+2018-02-20 13:10:58 Debug: SHOW TABLE STATUS WHERE Name = 'add_limits'
+2018-02-20 13:10:58 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:10:58 Debug: SHOW FULL COLUMNS FROM `users`
+2018-02-20 13:10:58 Debug: SHOW INDEXES FROM `users`
+2018-02-20 13:10:58 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'users' AND rc.TABLE_NAME = 'users'
+2018-02-20 13:10:58 Debug: SHOW TABLE STATUS WHERE Name = 'users'
+2018-02-20 13:10:58 Debug: SHOW FULL COLUMNS FROM `countries`
+2018-02-20 13:10:58 Debug: SHOW INDEXES FROM `countries`
+2018-02-20 13:10:58 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'countries' AND rc.TABLE_NAME = 'countries'
+2018-02-20 13:10:58 Debug: SHOW TABLE STATUS WHERE Name = 'countries'
+2018-02-20 13:11:02 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:11:51 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:13:46 Debug: SHOW FULL COLUMNS FROM `add_limits`
+2018-02-20 13:13:46 Debug: SHOW INDEXES FROM `add_limits`
+2018-02-20 13:13:46 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'add_limits' AND rc.TABLE_NAME = 'add_limits'
+2018-02-20 13:13:46 Debug: SHOW TABLE STATUS WHERE Name = 'add_limits'
+2018-02-20 13:13:46 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:13:46 Debug: SHOW FULL COLUMNS FROM `users`
+2018-02-20 13:13:46 Debug: SHOW INDEXES FROM `users`
+2018-02-20 13:13:46 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'users' AND rc.TABLE_NAME = 'users'
+2018-02-20 13:13:46 Debug: SHOW TABLE STATUS WHERE Name = 'users'
+2018-02-20 13:13:46 Debug: SHOW FULL COLUMNS FROM `countries`
+2018-02-20 13:13:46 Debug: SHOW INDEXES FROM `countries`
+2018-02-20 13:13:46 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'countries' AND rc.TABLE_NAME = 'countries'
+2018-02-20 13:13:46 Debug: SHOW TABLE STATUS WHERE Name = 'countries'
+2018-02-20 13:13:46 Debug: SELECT Users.id AS `Users__id`, Users.username AS `Users__username`, Users.email AS `Users__email`, Users.password AS `Users__password`, Users.group_id AS `Users__group_id`, Users.first_name AS `Users__first_name`, Users.last_name AS `Users__last_name`, Users.classroom AS `Users__classroom`, Users.image AS `Users__image`, Users.is_trial AS `Users__is_trial`, Users.is_paid AS `Users__is_paid`, Users.is_free_used AS `Users__is_free_used`, Users.product_id AS `Users__product_id`, Users.user_type AS `Users__user_type`, Users.gender AS `Users__gender`, Users.dob AS `Users__dob`, Users.mobile AS `Users__mobile`, Users.zipcode AS `Users__zipcode`, Users.address AS `Users__address`, Users.city AS `Users__city`, Users.country_id AS `Users__country_id`, Users.sessionId AS `Users__sessionId`, Users.verification_token AS `Users__verification_token`, Users.forgotpass_token AS `Users__forgotpass_token`, Users.is_verified AS `Users__is_verified`, Users.status_id AS `Users__status_id`, Users.is_active AS `Users__is_active`, Users.last_login AS `Users__last_login`, Users.created AS `Users__created`, Users.modified AS `Users__modified`, Countries.id AS `Countries__id`, Countries.country AS `Countries__country`, Countries.country_code AS `Countries__country_code`, Countries.country_code_iso3 AS `Countries__country_code_iso3`, Countries.is_publish AS `Countries__is_publish` FROM users Users LEFT JOIN countries Countries ON Countries.id = (Users.country_id) WHERE (group_id = 2 AND NOT (Users.id = 27)) ORDER BY Users.id desc LIMIT 20 OFFSET 0
+2018-02-20 13:13:46 Debug: SELECT (COUNT(*)) AS `count` FROM users Users LEFT JOIN countries Countries ON Countries.id = (Users.country_id) WHERE (group_id = 2 AND NOT (Users.id = 27))
+2018-02-20 13:15:08 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:15:08 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:18:21 Debug: SHOW FULL COLUMNS FROM `add_limits`
+2018-02-20 13:18:21 Debug: SHOW INDEXES FROM `add_limits`
+2018-02-20 13:18:21 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'add_limits' AND rc.TABLE_NAME = 'add_limits'
+2018-02-20 13:18:21 Debug: SHOW TABLE STATUS WHERE Name = 'add_limits'
+2018-02-20 13:18:21 Debug: SELECT AddLimits.id AS `AddLimits__id`, AddLimits.user_id AS `AddLimits__user_id`, AddLimits.type AS `AddLimits__type`, AddLimits.upto_limit AS `AddLimits__upto_limit`, AddLimits.created AS `AddLimits__created`, AddLimits.modified AS `AddLimits__modified` FROM add_limits AddLimits
+2018-02-20 13:18:21 Debug: SHOW FULL COLUMNS FROM `users`
+2018-02-20 13:18:21 Debug: SHOW INDEXES FROM `users`
+2018-02-20 13:18:21 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'users' AND rc.TABLE_NAME = 'users'
+2018-02-20 13:18:21 Debug: SHOW TABLE STATUS WHERE Name = 'users'
+2018-02-20 13:18:21 Debug: SHOW FULL COLUMNS FROM `countries`
+2018-02-20 13:18:21 Debug: SHOW INDEXES FROM `countries`
+2018-02-20 13:18:21 Debug: SELECT * FROM information_schema.key_column_usage AS kcu
+            INNER JOIN information_schema.referential_constraints AS rc
+            ON (
+                kcu.CONSTRAINT_NAME = rc.CONSTRAINT_NAME
+                AND kcu.CONSTRAINT_SCHEMA = rc.CONSTRAINT_SCHEMA
+            )
+            WHERE kcu.TABLE_SCHEMA = 'z_teachers' AND kcu.TABLE_NAME = 'countries' AND rc.TABLE_NAME = 'countries'
+2018-02-20 13:18:21 Debug: SHOW TABLE STATUS WHERE Name = 'countries'

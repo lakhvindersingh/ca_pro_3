@@ -1,0 +1,1 @@
+{"Area":[{"areaColor":"#ff1f3472","areaName":"otherdata","createdAt":"2016-04-27T10:40:11+0000","AreaId":18,"objectId":"kSeYoHQ4bL","AreaType":"Primary","userId":24,"updatedAt":"2016-04-27T10:40:11+0000"}]}
